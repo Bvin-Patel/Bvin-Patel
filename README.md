@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Bvin-Patel
-- 👀 I’m interested in ... Aeronautical, Aerospace, Satellite, Automotive, Embedded Systems, Radar, Lidar, Microwave Sensors, and Communication technologies
+- 👀 I’m interested in ... Aeronautical, Aerospace, Satellite, Automotive, Embedded Systems, Radar, Lidar, Microwave Sensors, and Communication Technologies
 - 🌱 I’m currently learning ... Embedded Software Development and RTOS 
-- 💞️ I’m looking to collaborate ... on Embedded Software Projects 
+- 💞️ I’m looking to collaborate ... on Embedded Software Development Projects 
 - 📫 How to reach me ... bhavinkumar.patel@haw-hamburg.de 
 
 <!---
